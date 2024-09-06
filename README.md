@@ -1,8 +1,8 @@
 HEY THERE
-1 [[MasterHead](https://1.bp.blogspot.com/-74Mynt. Sы/XbBpCXGBFHI/AAAAAAAAH4/alpskYgrwbllh5u250j_Higgsx3QCLCBGASYHQ/s1600/2000_600px.gif)] 
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://akh1tar12.github.io/Akhtar.github.io/)
 <h1 align="center">Hi 👋, I'm Akhtar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y29kZXxlbnwwfHwwfHx8MA%3D%3D">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **gameing website created**
 
